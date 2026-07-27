@@ -286,8 +286,8 @@
             </lg>
 
             <lg n="42" xml:id="lg042">
-               <l n="124">I saw <persName>Camilla</persName> and <persName>Penthesilea</persName></l>
-               <l n="125">On the other side, and saw the King Latinus,</l>
+               <l n="124">I saw <persName>Camilla</persName> and <persName><persName cert="high" type="real">Penthesilea</persName></persName></l>
+               <l n="125">On the other side, and saw <persName cert="medium" type="fictional">the King Latinus</persName>,</l>
                <l n="126">Who with Lavinia his daughter sat;</l>
             </lg>
 
