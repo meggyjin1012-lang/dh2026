@@ -1083,7 +1083,7 @@
 
             <lg n="43" xml:id="lg043">
                <l n="127">I saw that <persName key="Marcus Junius Brutus" ref="http://dbpedia.org/resource/Marcus_Junius_Brutus">Brutus</persName> who drove Tarquin forth,</l>
-               <l n="128"><persName key="Lucretia" ref="http://www.wikidata.org/entity/Q229432">Lucretia</persName>, <persName>Julia</persName>, Marcia, and Cornelia,</l>
+               <l n="128"><persName key="Lucretia" ref="http://www.wikidata.org/entity/Q229432">Lucretia</persName>, <persName>Julia</persName>, <persName cert="medium" type="fictional">Marcia</persName>, and Cornelia,</l>
                <l n="129">And saw alone, apart, the Saladin.</l>
             </lg>
 
