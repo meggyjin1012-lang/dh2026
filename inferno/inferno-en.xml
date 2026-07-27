@@ -1083,13 +1083,13 @@
 
             <lg n="43" xml:id="lg043">
                <l n="127">I saw that <persName key="Marcus Junius Brutus" ref="http://dbpedia.org/resource/Marcus_Junius_Brutus">Brutus</persName> who drove Tarquin forth,</l>
-               <l n="128"><persName key="Lucretia" ref="http://www.wikidata.org/entity/Q229432">Lucretia</persName>, <persName>Julia</persName>, <persName cert="medium" type="fictional">Marcia</persName>, and Cornelia,</l>
+               <l n="128"><persName key="Lucretia" ref="http://www.wikidata.org/entity/Q229432">Lucretia</persName>, <persName>Julia</persName>, <persName cert="medium" type="fictional">Marcia</persName>, and <persName>Cornelia</persName>,</l>
                <l n="129">And saw alone, apart, the Saladin.</l>
             </lg>
 
             <lg n="44" xml:id="lg044">
                <l n="130">When I had lifted up my brows a little,</l>
-               <l n="131">The Master I beheld of those who know,</l>
+               <l n="131"><persName cert="medium" type="fictional">The Master</persName> I beheld of those who know,</l>
                <l n="132">Sit with his philosophic family.</l>
             </lg>
 
