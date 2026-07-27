@@ -788,7 +788,7 @@
             <lg n="20" xml:id="lg020">
                <l n="58"><persName><persName key="Abraham" ref="http://www.wikidata.org/entity/Q9181">Abraham</persName></persName>, <persName><persName key="patriarch" ref="http://www.wikidata.org/entity/Q171692">patriarch</persName></persName>, and <persName><persName key="David" ref="http://www.wikidata.org/entity/Q41370">David</persName></persName>, <persName><persName cert="low" type="real">king</persName></persName>,</l>
                <l n="59">Israel with his father and his children,</l>
-               <l n="60">And <persName>Rachel</persName>, for whose sake he did so much,</l>
+               <l n="60">And <persName><persName cert="high">Rachel</persName></persName>, for whose sake he did so much,</l>
             </lg>
 
             <lg n="21" xml:id="lg021">
